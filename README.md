@@ -61,7 +61,7 @@ Feel free to contribute! Fork, create issues or PRs, and help improve this proje
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📫 Contact
-Created by Harini A (Chloo)
+Created by Harini A
 Email: harinii2415@gmail.com
 LinkedIn: https://www.linkedin.com/in/harini-a-9a014925a/
 
