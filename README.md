@@ -57,8 +57,7 @@ The Tkinter GUI lets you open the Subway Surfers game easily.
 🤝 Contributions
 Feel free to contribute! Fork, create issues or PRs, and help improve this project.
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 📫 Contact
 Created by Harini A
