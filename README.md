@@ -16,6 +16,10 @@ By detecting your **index finger swipe direction (left, right, up, down)** with 
 > *Note:* Due to browser security, simulated key presses may not work directly on the game page, but the gesture detection works perfectly, showing real-time feedback.
 
 ---
+<p align="center">
+  <img src="background.jpeg" alt="Gesture Controlled Subway Surfer Game Banner" />
+</p>
+
 
 ## 🛠️ Features
 
